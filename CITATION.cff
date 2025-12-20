@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the corresponding article."
+title: "Surface Chemistry Effects on Molecular Transport in GO Membranes: Decoupling Geometric Confinement from Functional Group Affinity"
+type: software
+authors:
+  - family-names: Gaona Cruz
+    given-names: Oscar Javier
+    affiliation: Universidad del Magdalena / University of Antwerp
+repository-code: https://github.com/oscargaonacruz-design/GO-Chemistry-Desalination-MD
+abstract: >
+  Molecular dynamics simulation data and analysis scripts supporting the study of
+  pressure-driven water transport and ion rejection in multilayer graphene oxide
+  membranes. The repository isolates the role of surface chemistry by maintaining
+  fixed geometric confinement while varying functional group type and density.
+keywords:
+  - graphene oxide
+  - molecular dynamics
+  - desalination
+  - surface chemistry
+  - ion rejection
+license: MIT
+date-released: 2025-01-01
