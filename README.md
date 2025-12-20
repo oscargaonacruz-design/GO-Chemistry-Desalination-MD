@@ -61,6 +61,3 @@ Each membrane directory includes the following files:
   LAMMPS input script defining the simulation protocol, including boundary conditions, pressure-driven setup, and runtime parameters.
 
 This structure ensures full reproducibility, allowing each membrane system to be simulated independently.
-
-### Example directory layout
-
