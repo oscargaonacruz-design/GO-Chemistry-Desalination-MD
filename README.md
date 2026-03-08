@@ -2,7 +2,7 @@
 
 Molecular dynamics simulation data supporting the study:
 
-**"Surface Chemistry Effects on Molecular Transport in GO Membranes: Decoupling Geometric Confinement from Functional Group Affinity"**
+**"Molecular dynamics investigation of functional group effects on water transport and ion rejection in multilayer graphene oxide membranes"**
 
 This repository contains molecular dynamics (MD) simulation inputs, structural files, and post-processing scripts used to investigate pressure-driven water transport and ion rejection in multilayer graphene oxide (GO) membranes.
 
